@@ -1,0 +1,3089 @@
+[
+  {
+    "code": "1.00.00.00-3",
+    "name": "Ciências Exatas e da Terra",
+    "children": [
+      {
+        "code": "1.01.00.00-8",
+        "name": "Matemática",
+        "children": [
+          {
+            "code": "1.01.01.00-4",
+            "name": "Álgebra",
+            "children": [
+              {
+                "code": "1.01.01.03-9",
+                "name": "Teoria dos Números"
+              },
+              {
+                "code": "1.01.01.04-7",
+                "name": "Grupos de Algebra Não-Comutaviva"
+              },
+              {
+                "code": "1.01.01.05-5",
+                "name": "Algebra Comutativa"
+              },
+              {
+                "code": "1.01.01.06-3",
+                "name": "Geometria Algebrica"
+              }
+            ]
+          },
+          {
+            "code": "1.01.02.00-0",
+            "name": "Análise",
+            "children": [
+              {
+                "code": "1.01.02.01-9",
+                "name": "Análise Complexa"
+              },
+              {
+                "code": "1.01.02.02-7",
+                "name": "Análise Funcional"
+              },
+              {
+                "code": "1.01.02.03-5",
+                "name": "Análise Funcional Não-Linear"
+              },
+              {
+                "code": "1.01.02.04-3",
+                "name": "Equações Diferênciais Ordinárias"
+              },
+              {
+                "code": "1.01.02.05-1",
+                "name": "Equações Diferênciais Parciais"
+              },
+              {
+                "code": "1.01.02.06-0",
+                "name": "Equações Diferênciais Funcionais"
+              }
+            ]
+          },
+          {
+            "code": "1.01.03.00-7",
+            "name": "Geometria e Topologia",
+            "children": [
+              {
+                "code": "1.01.03.01-5",
+                "name": "Geometria Diferêncial"
+              },
+              {
+                "code": "1.01.03.02-3",
+                "name": "Topologia Algébrica"
+              },
+              {
+                "code": "1.01.03.03-1",
+                "name": "Topologia das Variedades"
+              },
+              {
+                "code": "1.01.03.04-0",
+                "name": "Sistemas Dinâmicos"
+              },
+              {
+                "code": "1.01.03.05-8",
+                "name": "Teoria das Singularidades e Teoria das Catástrofes"
+              },
+              {
+                "code": "1.01.03.06-6",
+                "name": "Teoria das Folheações"
+              }
+            ]
+          },
+          {
+            "code": "1.01.04.00-3",
+            "name": "Matemática Aplicada",
+            "children": [
+              {
+                "code": "1.01.04.01-1",
+                "name": "Física Matemática"
+              },
+              {
+                "code": "1.01.04.02-0",
+                "name": "Análise Numérica"
+              },
+              {
+                "code": "1.01.04.03-8",
+                "name": "Matemática Discreta e Combinatoria"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.02.00.00-2",
+        "name": "Probabilidade e Estatística",
+        "children": [
+          {
+            "code": "1.02.01.00-9",
+            "name": "Probabilidade",
+            "children": [
+              {
+                "code": "1.02.01.01-7",
+                "name": "Teoria Geral e Fundamentos da Probabilidade"
+              },
+              {
+                "code": "1.02.01.02-5",
+                "name": "Teoria Geral e Processos Estocásticos"
+              },
+              {
+                "code": "1.02.01.03-3",
+                "name": "Teoremas de Limite"
+              },
+              {
+                "code": "1.02.01.04-1",
+                "name": "Processos Markovianos"
+              },
+              {
+                "code": "1.02.01.05-0",
+                "name": "Análise Estocástica"
+              },
+              {
+                "code": "1.02.01.06-8",
+                "name": "Processos Estocásticos Especiais"
+              }
+            ]
+          },
+          {
+            "code": "1.02.02.00-5",
+            "name": "Estatística",
+            "children": [
+              {
+                "code": "1.02.02.01-3",
+                "name": "Fundamentos da Estatística"
+              },
+              {
+                "code": "1.02.02.02-1",
+                "name": "Inferência Paramétrica"
+              },
+              {
+                "code": "1.02.02.03-0",
+                "name": "Inferência Nao-Paramétrica"
+              },
+              {
+                "code": "1.02.02.04-8",
+                "name": "Inferência em Processos Estocásticos"
+              },
+              {
+                "code": "1.02.02.05-6",
+                "name": "Análise Multivariada"
+              },
+              {
+                "code": "1.02.02.06-4",
+                "name": "Regressão e Correlação"
+              },
+              {
+                "code": "1.02.02.07-2",
+                "name": "Planejamento de Experimentos"
+              },
+              {
+                "code": "1.02.02.08-0",
+                "name": "Análise de Dados"
+              }
+            ]
+          },
+          {
+            "code": "1.02.03.00-1",
+            "name": "Probabilidade e Estatística Aplicadas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1.03.00.00-7",
+        "name": "Ciência da Computação",
+        "children": [
+          {
+            "code": "1.03.01.00-3",
+            "name": "Teoria da Computação",
+            "children": [
+              {
+                "code": "1.03.01.01-1",
+                "name": "Computabilidade e Modelos de Computação"
+              },
+              {
+                "code": "1.03.01.02-0",
+                "name": "Linguagem Formais e Automatos"
+              },
+              {
+                "code": "1.03.01.03-8",
+                "name": "Análise de Algoritmos e Complexidade de Computação"
+              },
+              {
+                "code": "1.03.01.04-6",
+                "name": "Lógicas e Semântica de Programas"
+              }
+            ]
+          },
+          {
+            "code": "1.03.02.00-0",
+            "name": "Matemática da Computação",
+            "children": [
+              {
+                "code": "1.03.02.01-8",
+                "name": "Matemática Simbólica"
+              },
+              {
+                "code": "1.03.02.02-6",
+                "name": "Modelos Analíticos e de Simulação"
+              }
+            ]
+          },
+          {
+            "code": "1.03.03.00-6",
+            "name": "Metodologia e Técnicas da Computação",
+            "children": [
+              {
+                "code": "1.03.03.01-4",
+                "name": "Linguagens de Programação"
+              },
+              {
+                "code": "1.03.03.02-2",
+                "name": "Engenharia de Software"
+              },
+              {
+                "code": "1.03.03.03-0",
+                "name": "Banco de Dados"
+              },
+              {
+                "code": "1.03.03.04-9",
+                "name": "Sistemas de Informação"
+              },
+              {
+                "code": "1.03.03.05-7",
+                "name": "Processamento Gráfico (Graphics)"
+              }
+            ]
+          },
+          {
+            "code": "1.03.04.00-2",
+            "name": "Sistemas de Computação",
+            "children": [
+              {
+                "code": "1.03.04.01-0",
+                "name": "Hardware"
+              },
+              {
+                "code": "1.03.04.02-9",
+                "name": "Arquitetura de Sistemas de Computação"
+              },
+              {
+                "code": "1.03.04.03-7",
+                "name": "Software Básico"
+              },
+              {
+                "code": "1.03.04.04-5",
+                "name": "Teleinformática"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.04.00.00-1",
+        "name": "Astronomia",
+        "children": [
+          {
+            "code": "1.04.01.00-8",
+            "name": "Astronomia de Posição e Mecânica Celeste",
+            "children": [
+              {
+                "code": "1.04.01.01-6",
+                "name": "Astronomia Fundamental"
+              },
+              {
+                "code": "1.04.01.02-4",
+                "name": "Astronomia Dinâmica"
+              }
+            ]
+          },
+          {
+            "code": "1.04.02.00-4",
+            "name": "Astrofísica Estelar",
+            "children": []
+          },
+          {
+            "code": "1.04.03.00-0",
+            "name": "Astrofísica do Meio Interestelar",
+            "children": [
+              {
+                "code": "1.04.03.01-9",
+                "name": "Meio Interestelar"
+              },
+              {
+                "code": "1.04.03.02-7",
+                "name": "Nebulosa"
+              }
+            ]
+          },
+          {
+            "code": "1.04.04.00-7",
+            "name": "Astrofísica Extragaláctica",
+            "children": [
+              {
+                "code": "1.04.04.01-5",
+                "name": "Galáxias"
+              },
+              {
+                "code": "1.04.04.02-3",
+                "name": "Aglomerados de Galáxias"
+              },
+              {
+                "code": "1.04.04.03-1",
+                "name": "Quasares"
+              },
+              {
+                "code": "1.04.04.04-0",
+                "name": "Cosmologia"
+              }
+            ]
+          },
+          {
+            "code": "1.04.05.00-3",
+            "name": "Astrofísica do Sistema Solar",
+            "children": [
+              {
+                "code": "1.04.05.01-1",
+                "name": "Física Solar"
+              },
+              {
+                "code": "1.04.05.02-0",
+                "name": "Movimento da Terra"
+              },
+              {
+                "code": "1.04.05.03-8",
+                "name": "Sistema Planetário"
+              }
+            ]
+          },
+          {
+            "code": "1.04.06.00-0",
+            "name": "Instrumentação Astronômica",
+            "children": [
+              {
+                "code": "1.04.06.01-8",
+                "name": "Astronômia Ótica"
+              },
+              {
+                "code": "1.04.06.02-6",
+                "name": "Radioastronomia"
+              },
+              {
+                "code": "1.04.06.03-4",
+                "name": "Astronomia Espacial"
+              },
+              {
+                "code": "1.04.06.04-2",
+                "name": "Processamento de Dados Astronômicos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.05.00.00-6",
+        "name": "Física",
+        "children": [
+          {
+            "code": "1.05.01.00-2",
+            "name": "Física Geral",
+            "children": [
+              {
+                "code": "1.05.01.01-0",
+                "name": "Métodos Matemáticos da Física"
+              },
+              {
+                "code": "1.05.01.02-9",
+                "name": "Física Clássica e Física Quântica; Mecânica e Campos"
+              },
+              {
+                "code": "1.05.01.03-7",
+                "name": "Relatividade e Gravitação"
+              },
+              {
+                "code": "1.05.01.04-5",
+                "name": "Física Estatística e Termodinâmica"
+              },
+              {
+                "code": "1.05.01.05-3",
+                "name": "Metrologia, Técnicas Gerais de Laboratório, Sistema de Instrumentação"
+              },
+              {
+                "code": "1.05.01.06-1",
+                "name": "Instrumentação Específica de Uso Geral em Física"
+              }
+            ]
+          },
+          {
+            "code": "1.05.02.00-9",
+            "name": "Áreas Clássicas de Fenomenologia e suas Aplicações",
+            "children": [
+              {
+                "code": "1.05.02.01-7",
+                "name": "Eletricidade e Magnetismo; Campos e Partículas Carregadas"
+              },
+              {
+                "code": "1.05.02.02-5",
+                "name": "Ótica"
+              },
+              {
+                "code": "1.05.02.03-3",
+                "name": "Acústica"
+              },
+              {
+                "code": "1.05.02.04-1",
+                "name": "Transferência de Calor; Processos Térmicos e Termodinâmicos"
+              },
+              {
+                "code": "1.05.02.05-0",
+                "name": "Mecânica, Elasticidade e Reologia"
+              },
+              {
+                "code": "1.05.02.06-8",
+                "name": "Dinâmica dos Fluidos"
+              }
+            ]
+          },
+          {
+            "code": "1.05.03.00-5",
+            "name": "Física das Partículas Elementares e Campos",
+            "children": [
+              {
+                "code": "1.05.03.01-3",
+                "name": "Teoria Geral de Partículas e Campos"
+              },
+              {
+                "code": "1.05.03.02-1",
+                "name": "Teorias Específicas e Modelos de Interação; Sistematica de Partículas; Raios Cósmicos"
+              },
+              {
+                "code": "1.05.03.03-0",
+                "name": "Reações Específicas e Fenomiologia de Partículas"
+              },
+              {
+                "code": "1.05.03.04-8",
+                "name": "Propriedades de Partículas Específicas e Ressonâncias"
+              }
+            ]
+          },
+          {
+            "code": "1.05.04.00-1",
+            "name": "Física Nuclear",
+            "children": [
+              {
+                "code": "1.05.04.01-0",
+                "name": "Estrutura Nuclear"
+              },
+              {
+                "code": "1.05.04.02-8",
+                "name": "Desintegração Nuclear e Radioatividade"
+              },
+              {
+                "code": "1.05.04.03-6",
+                "name": "Reações Nucleares e Espalhamento Geral"
+              },
+              {
+                "code": "1.05.04.04-4",
+                "name": "Reações Nucleares e Espalhamento (Reações Específicas)"
+              },
+              {
+                "code": "1.05.04.05-2",
+                "name": "Propriedades de Núcleos Específicos"
+              },
+              {
+                "code": "1.05.04.06-0",
+                "name": "Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear"
+              }
+            ]
+          },
+          {
+            "code": "1.05.05.00-8",
+            "name": "Física Atômica e Molécular",
+            "children": [
+              {
+                "code": "1.05.05.01-6",
+                "name": "Estrutura Eletrônica de Átomos e Moléculas; Teoria"
+              },
+              {
+                "code": "1.05.05.02-4",
+                "name": "Espectros Atômicos e Integração de Fótons"
+              },
+              {
+                "code": "1.05.05.03-2",
+                "name": "Espectros Moléculares e Interações de Fótons com Moléculas"
+              },
+              {
+                "code": "1.05.05.04-0",
+                "name": "Processos de Colisão e Interações de Átomos e Moléculas"
+              },
+              {
+                "code": "1.05.05.05-9",
+                "name": "Inf.Sobre Átomos e Moléculas Obtidos Experimentalmente;Instrumentação e Técnicas"
+              },
+              {
+                "code": "1.05.05.06-7",
+                "name": "Estudos de Átomos e Moléculas Especiais"
+              }
+            ]
+          },
+          {
+            "code": "1.05.06.00-4",
+            "name": "Física dos Fluidos, Física de Plasmas e Descargas Elétricas",
+            "children": [
+              {
+                "code": "1.05.06.01-2",
+                "name": "Cinética e Teoria de Transporte de Fluidos; Propriedades Físicas de Gases"
+              },
+              {
+                "code": "1.05.06.02-0",
+                "name": "Física de Plasmas e Descargas Elétricas"
+              }
+            ]
+          },
+          {
+            "code": "1.05.07.00-0",
+            "name": "Física da Matéria Condensada",
+            "children": [
+              {
+                "code": "1.05.07.01-9",
+                "name": "Estrutura de Líquidos e Sólidos; Cristalografia"
+              },
+              {
+                "code": "1.05.07.02-7",
+                "name": "Propriedades Mecânicas e Acústicas da Matéria Condensada"
+              },
+              {
+                "code": "1.05.07.03-5",
+                "name": "Dinâmica da Rede e Estatística de Cristais"
+              },
+              {
+                "code": "1.05.07.04-3",
+                "name": "Equação de Estado, Equilíbrio de Fases e Transições de Fase"
+              },
+              {
+                "code": "1.05.07.05-1",
+                "name": "Propriedades Térmicas da Matéria Condensada"
+              },
+              {
+                "code": "1.05.07.06-0",
+                "name": "Propriedades de Transportes de Matéria Condensada (Não Eletrônicas)"
+              },
+              {
+                "code": "1.05.07.07-8",
+                "name": "Campos Quânticos e Sólidos, Hélio, Líquido, Sólido"
+              },
+              {
+                "code": "1.05.07.08-6",
+                "name": "Superfícies e Interfaces; Películas e Filamentos"
+              },
+              {
+                "code": "1.05.07.09-4",
+                "name": "Estados Eletrônicos"
+              },
+              {
+                "code": "1.05.07.10-8",
+                "name": "Transp.Eletrônicos e Prop. Elétricas de Superfícies; Interfaces e Películas"
+              },
+              {
+                "code": "1.05.07.11-6",
+                "name": "Estruturas Eletrônicas e Propriedades Elétricas de Superfícies Interfaces e Películas"
+              },
+              {
+                "code": "1.05.07.12-4",
+                "name": "Supercondutividade"
+              },
+              {
+                "code": "1.05.07.13-2",
+                "name": "Materiais Magnéticos e Propriedades Magnéticas"
+              },
+              {
+                "code": "1.05.07.14-0",
+                "name": "Ressonância Mag.e Relax.Na Mat.Condens;Efeitos Mosbauer;Corr.Ang.Pertubada"
+              },
+              {
+                "code": "1.05.07.15-9",
+                "name": "Materiais Dielétricos e Propriedades Dielétricas"
+              },
+              {
+                "code": "1.05.07.16-7",
+                "name": "Prop.Óticas e Espectrosc.da Mat.Condens;Outras Inter.da Mat.Com Rad.e Part."
+              },
+              {
+                "code": "1.05.07.17-5",
+                "name": "Emissão Eletrônica e Iônica por Líquidos e Sólidos; Fenômenos de Impacto"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.06.00.00-0",
+        "name": "Química",
+        "children": [
+          {
+            "code": "1.06.01.00-7",
+            "name": "Química Orgânica",
+            "children": [
+              {
+                "code": "1.06.01.01-5",
+                "name": "Estrutura, Conformação e Estereoquímica"
+              },
+              {
+                "code": "1.06.01.02-3",
+                "name": "Sintese Orgânica"
+              },
+              {
+                "code": "1.06.01.03-1",
+                "name": "Fisico-Química Orgânica"
+              },
+              {
+                "code": "1.06.01.04-0",
+                "name": "Fotoquímica Orgânica"
+              },
+              {
+                "code": "1.06.01.05-8",
+                "name": "Química dos Produtos Naturais"
+              },
+              {
+                "code": "1.06.01.06-6",
+                "name": "Evolução, Sistemática e Ecologia Química"
+              },
+              {
+                "code": "1.06.01.07-4",
+                "name": "Polimeros e Colóides"
+              }
+            ]
+          },
+          {
+            "code": "1.06.02.00-3",
+            "name": "Química Inorgânica",
+            "children": [
+              {
+                "code": "1.06.02.01-1",
+                "name": "Campos de Coordenação"
+              },
+              {
+                "code": "1.06.02.02-0",
+                "name": "Não-Metais e Seus Compostos"
+              },
+              {
+                "code": "1.06.02.03-8",
+                "name": "Compostos Organo-Metálicos"
+              },
+              {
+                "code": "1.06.02.04-6",
+                "name": "Determinação de Estrutura de Compostos Inorgânicos"
+              },
+              {
+                "code": "1.06.02.05-4",
+                "name": "Foto-Química Inorgânica"
+              },
+              {
+                "code": "1.06.02.06-2",
+                "name": "Fisico Química Inorgânica"
+              },
+              {
+                "code": "1.06.02.07-0",
+                "name": "Química Bio-Inorgânica"
+              }
+            ]
+          },
+          {
+            "code": "1.06.03.00-0",
+            "name": "Fisico-Química",
+            "children": [
+              {
+                "code": "1.06.03.01-8",
+                "name": "Cinética Química e Catálise"
+              },
+              {
+                "code": "1.06.03.02-6",
+                "name": "Eletroquímica"
+              },
+              {
+                "code": "1.06.03.03-4",
+                "name": "Espectroscopia"
+              },
+              {
+                "code": "1.06.03.04-2",
+                "name": "Química de Interfaces"
+              },
+              {
+                "code": "1.06.03.05-0",
+                "name": "Química do Estado Condensado"
+              },
+              {
+                "code": "1.06.03.06-9",
+                "name": "Química Nuclear e Radioquímica"
+              },
+              {
+                "code": "1.06.03.07-7",
+                "name": "Química Teórica"
+              },
+              {
+                "code": "1.06.03.08-5",
+                "name": "Termodinâmica Química"
+              }
+            ]
+          },
+          {
+            "code": "1.06.04.00-6",
+            "name": "Química Analítica",
+            "children": [
+              {
+                "code": "1.06.04.01-4",
+                "name": "Separação"
+              },
+              {
+                "code": "1.06.04.02-2",
+                "name": "Métodos Óticos de Análise"
+              },
+              {
+                "code": "1.06.04.03-0",
+                "name": "Eletroanalítica"
+              },
+              {
+                "code": "1.06.04.04-9",
+                "name": "Gravimetria"
+              },
+              {
+                "code": "1.06.04.05-7",
+                "name": "Titimetria"
+              },
+              {
+                "code": "1.06.04.06-5",
+                "name": "Instrumentação Analítica"
+              },
+              {
+                "code": "1.06.04.07-3",
+                "name": "Análise de Traços e Química Ambiental"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.07.00.00-5",
+        "name": "GeoCiências",
+        "children": [
+          {
+            "code": "1.07.01.00-1",
+            "name": "Geologia",
+            "children": [
+              {
+                "code": "1.07.01.01-0",
+                "name": "Mineralogia"
+              },
+              {
+                "code": "1.07.01.02-8",
+                "name": "Petrologia"
+              },
+              {
+                "code": "1.07.01.03-6",
+                "name": "Geoquímica"
+              },
+              {
+                "code": "1.07.01.04-4",
+                "name": "Geologia Regional"
+              },
+              {
+                "code": "1.07.01.05-2",
+                "name": "Geotectônica"
+              },
+              {
+                "code": "1.07.01.06-0",
+                "name": "Geocronologia"
+              },
+              {
+                "code": "1.07.01.07-9",
+                "name": "Cartografia Geológica"
+              },
+              {
+                "code": "1.07.01.08-7",
+                "name": "Metalogenia"
+              },
+              {
+                "code": "1.07.01.09-5",
+                "name": "Hidrogeologia"
+              },
+              {
+                "code": "1.07.01.10-9",
+                "name": "Prospecção Mineral"
+              },
+              {
+                "code": "1.07.01.11-7",
+                "name": "Sedimentologia"
+              },
+              {
+                "code": "1.07.01.12-5",
+                "name": "Paleontologia Estratigráfica"
+              },
+              {
+                "code": "1.07.01.13-3",
+                "name": "Estratigrafia"
+              },
+              {
+                "code": "1.07.01.14-1",
+                "name": "Geologia Ambiental"
+              }
+            ]
+          },
+          {
+            "code": "1.07.02.00-8",
+            "name": "Geofísica",
+            "children": [
+              {
+                "code": "1.07.02.01-6",
+                "name": "Geomagnetismo"
+              },
+              {
+                "code": "1.07.02.02-4",
+                "name": "Sismologia"
+              },
+              {
+                "code": "1.07.02.03-2",
+                "name": "Geotermia e Fluxo Térmico"
+              },
+              {
+                "code": "1.07.02.04-0",
+                "name": "Propriedades Físicas das Rochas"
+              },
+              {
+                "code": "1.07.02.05-9",
+                "name": "Geofísica Nuclear"
+              },
+              {
+                "code": "1.07.02.06-7",
+                "name": "Sensoriamento Remoto"
+              },
+              {
+                "code": "1.07.02.07-5",
+                "name": "Aeronomia"
+              },
+              {
+                "code": "1.07.02.08-3",
+                "name": "Desenvolvimento de Instrumentação Geofísica"
+              },
+              {
+                "code": "1.07.02.09-1",
+                "name": "Geofísica Aplicada"
+              },
+              {
+                "code": "1.07.02.10-5",
+                "name": "Gravimetria"
+              }
+            ]
+          },
+          {
+            "code": "1.07.03.00-4",
+            "name": "Meteorologia",
+            "children": [
+              {
+                "code": "1.07.03.01-2",
+                "name": "Meteorologia Dinâmica"
+              },
+              {
+                "code": "1.07.03.02-0",
+                "name": "Meteorologia Sinótica"
+              },
+              {
+                "code": "1.07.03.03-9",
+                "name": "Meteorologia Física"
+              },
+              {
+                "code": "1.07.03.04-7",
+                "name": "Química da Atmosfera"
+              },
+              {
+                "code": "1.07.03.05-5",
+                "name": "Instrumentação Meteorológica"
+              },
+              {
+                "code": "1.07.03.06-3",
+                "name": "Climatologia"
+              },
+              {
+                "code": "1.07.03.07-1",
+                "name": "Micrometeorologia"
+              },
+              {
+                "code": "1.07.03.08-0",
+                "name": "Sensoriamento Remoto da Atmosfera"
+              },
+              {
+                "code": "1.07.03.09-8",
+                "name": "Meteorologia Aplicada"
+              }
+            ]
+          },
+          {
+            "code": "1.07.04.00-0",
+            "name": "Geodesia",
+            "children": [
+              {
+                "code": "1.07.04.01-9",
+                "name": "Geodesia Física"
+              },
+              {
+                "code": "1.07.04.02-7",
+                "name": "Geodesia Geométrica"
+              },
+              {
+                "code": "1.07.04.03-5",
+                "name": "Geodesia Celeste"
+              },
+              {
+                "code": "1.07.04.04-3",
+                "name": "Fotogrametria"
+              },
+              {
+                "code": "1.07.04.05-1",
+                "name": "Cartografia Básica"
+              }
+            ]
+          },
+          {
+            "code": "1.07.05.00-7",
+            "name": "Geografia Física",
+            "children": [
+              {
+                "code": "1.07.05.01-5",
+                "name": "Geomorfologia"
+              },
+              {
+                "code": "1.07.05.02-3",
+                "name": "Climatologia Geográfica"
+              },
+              {
+                "code": "1.07.05.03-1",
+                "name": "Pedologia"
+              },
+              {
+                "code": "1.07.05.04-0",
+                "name": "Hidrogeografia"
+              },
+              {
+                "code": "1.07.05.05-8",
+                "name": "Geoecologia"
+              },
+              {
+                "code": "1.07.05.06-6",
+                "name": "Fotogeografia (Físico-Ecológica)"
+              },
+              {
+                "code": "1.07.05.07-4",
+                "name": "Geocartografia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "1.08.00.00-0",
+        "name": "Oceanografia",
+        "children": [
+          {
+            "code": "1.08.01.00-6",
+            "name": "Oceanografia Biológica",
+            "children": [
+              {
+                "code": "1.08.01.01-4",
+                "name": "Interação entre os Organismos Marinhos e os Parâmetros Ambientais"
+              }
+            ]
+          },
+          {
+            "code": "1.08.02.00-2",
+            "name": "Oceanografia Física",
+            "children": [
+              {
+                "code": "1.08.02.01-0",
+                "name": "Variáveis Físicas da Água do Mar"
+              },
+              {
+                "code": "1.08.02.02-9",
+                "name": "Movimento da Água do Mar"
+              },
+              {
+                "code": "1.08.02.03-7",
+                "name": "Origem das Massas de Água"
+              },
+              {
+                "code": "1.08.02.04-5",
+                "name": "Interação do \nOceano com o Leito do Mar"
+              },
+              {
+                "code": "1.08.02.05-3",
+                "name": "Interação do \n Oceano com a Atmosfera"
+              }
+            ]
+          },
+          {
+            "code": "1.08.03.00-9",
+            "name": "Oceanografia Química",
+            "children": [
+              {
+                "code": "1.08.03.01-7",
+                "name": "Propriedades Químicas da Água do Mar"
+              },
+              {
+                "code": "1.08.03.02-5",
+                "name": "Interações Químico-Biológicas/Geológicas das Substâncias Químicas da Água do Mar"
+              }
+            ]
+          },
+          {
+            "code": "1.08.04.00-5",
+            "name": "Oceanografia Geológica",
+            "children": [
+              {
+                "code": "1.08.04.01-3",
+                "name": "Geomorfologia Submarina"
+              },
+              {
+                "code": "1.08.04.02-1",
+                "name": "Sedimentologia Marinha"
+              },
+              {
+                "code": "1.08.04.03-0",
+                "name": "Geofísica Marinha"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "2.00.00.00-6",
+    "name": "Ciências Biológicas",
+    "children": [
+      {
+        "code": "2.03.00.00-0",
+        "name": "Botânica",
+        "children": [
+          {
+            "code": "2.03.01.00-6",
+            "name": "Paleobotânica",
+            "children": []
+          },
+          {
+            "code": "2.03.02.00-2",
+            "name": "Morfologia Vegetal",
+            "children": [
+              {
+                "code": "2.03.02.01-0",
+                "name": "Morfologia Externa"
+              },
+              {
+                "code": "2.03.02.02-9",
+                "name": "Citologia Vegetal"
+              },
+              {
+                "code": "2.03.02.03-7",
+                "name": "Anatomia Vegetal"
+              },
+              {
+                "code": "2.03.02.04-5",
+                "name": "Palinologia"
+              }
+            ]
+          },
+          {
+            "code": "2.03.03.00-9",
+            "name": "Fisiologia Vegetal",
+            "children": [
+              {
+                "code": "2.03.03.01-7",
+                "name": "Nutrição e Crescimento Vegetal"
+              },
+              {
+                "code": "2.03.03.02-5",
+                "name": "Reprodução Vegetal"
+              },
+              {
+                "code": "2.03.03.03-3",
+                "name": "Ecofisiologia Vegetal"
+              }
+            ]
+          },
+          {
+            "code": "2.03.04.00-5",
+            "name": "Taxonomia Vegetal",
+            "children": [
+              {
+                "code": "2.03.04.01-3",
+                "name": "Taxonomia de Criptógamos"
+              },
+              {
+                "code": "2.03.04.02-1",
+                "name": "Taxonomia de Fanerógamos"
+              }
+            ]
+          },
+          {
+            "code": "2.03.05.00-1",
+            "name": "Fitogeografia",
+            "children": []
+          },
+          {
+            "code": "2.03.06.00-8",
+            "name": "Botânica Aplicada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.04.00.00-4",
+        "name": "Zoologia",
+        "children": [
+          {
+            "code": "2.04.01.00-0",
+            "name": "Paleozoologia",
+            "children": []
+          },
+          {
+            "code": "2.04.02.00-7",
+            "name": "Morfologia dos Grupos Recentes",
+            "children": []
+          },
+          {
+            "code": "2.04.03.00-3",
+            "name": "Fisiologia dos Grupos Recentes",
+            "children": []
+          },
+          {
+            "code": "2.04.06.00-2",
+            "name": "Zoologia Aplicada",
+            "children": [
+              {
+                "code": "2.04.06.01-0",
+                "name": "Conservação das Espécies Animais"
+              },
+              {
+                "code": "2.04.06.02-9",
+                "name": "Utilização dos Animais"
+              },
+              {
+                "code": "2.04.06.03-7",
+                "name": "Controle Populacional de Animais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "2.05.00.00-9",
+        "name": "Ecologia",
+        "children": [
+          {
+            "code": "2.05.03.00-8",
+            "name": "Ecologia Aplicada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.06.00.00-3",
+        "name": "Morfologia",
+        "children": [
+          {
+            "code": "2.06.01.00-0",
+            "name": "Citologia e Biologia Celular",
+            "children": []
+          },
+          {
+            "code": "2.06.02.00-6",
+            "name": "Embriologia",
+            "children": []
+          },
+          {
+            "code": "2.06.03.00-2",
+            "name": "Histologia",
+            "children": []
+          },
+          {
+            "code": "2.06.04.00-9",
+            "name": "Anatomia",
+            "children": [
+              {
+                "code": "2.06.04.01-7",
+                "name": "Anatomia Humana"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "2.07.00.00-8",
+        "name": "Fisiologia",
+        "children": [
+          {
+            "code": "2.07.01.00-4",
+            "name": "Fisiologia Geral",
+            "children": []
+          },
+          {
+            "code": "2.07.02.00-0",
+            "name": "Fisiologia de Órgaos e Sistemas",
+            "children": [
+              {
+                "code": "2.07.02.03-5",
+                "name": "Fisiologia da Respiração"
+              },
+              {
+                "code": "2.07.02.04-3",
+                "name": "Fisiologia Renal"
+              },
+              {
+                "code": "2.07.02.05-1",
+                "name": "Fisiologia \nEndocrina"
+              },
+              {
+                "code": "2.07.02.06-0",
+                "name": "Fisiologia da \n \nDigestão"
+              },
+              {
+                "code": "2.07.02.07-8",
+                "name": "Cinesiologia"
+              }
+            ]
+          },
+          {
+            "code": "2.07.03.00-7",
+            "name": "Fisiologia do Esforço",
+            "children": []
+          },
+          {
+            "code": "2.07.04.00-3",
+            "name": "Fisiologia Comparada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.08.00.00-2",
+        "name": "Bioquímica",
+        "children": [
+          {
+            "code": "2.08.01.00-9",
+            "name": "Química de Macromoléculas",
+            "children": [
+              {
+                "code": "2.08.01.01-7",
+                "name": "Proteínas"
+              },
+              {
+                "code": "2.08.01.02-5",
+                "name": "Lipídeos"
+              },
+              {
+                "code": "2.08.01.03-3",
+                "name": "Glicídeos"
+              }
+            ]
+          },
+          {
+            "code": "2.08.02.00-5",
+            "name": "Bioquímica dos Microorganismos",
+            "children": []
+          },
+          {
+            "code": "2.08.03.00-1",
+            "name": "Metabolismo e Bioenergética",
+            "children": []
+          },
+          {
+            "code": "2.08.04.00-8",
+            "name": "Biologia Molecular",
+            "children": []
+          },
+          {
+            "code": "2.08.05.00-4",
+            "name": "Enzimologia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.09.00.00-7",
+        "name": "Biofísica",
+        "children": [
+          {
+            "code": "2.09.01.00-3",
+            "name": "Biofísica Molecular",
+            "children": []
+          },
+          {
+            "code": "2.09.02.00-0",
+            "name": "Biofísica Celular",
+            "children": []
+          },
+          {
+            "code": "2.09.03.00-6",
+            "name": "Biofísica de Processos e Sistemas",
+            "children": []
+          },
+          {
+            "code": "2.09.04.00-2",
+            "name": "Radiologia e Fotobiologia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.10.00.00-0",
+        "name": "Farmacologia",
+        "children": [
+          {
+            "code": "2.10.01.00-6",
+            "name": "Farmacologia Geral",
+            "children": [
+              {
+                "code": "2.10.01.01-4",
+                "name": "Farmacocinética"
+              },
+              {
+                "code": "2.10.01.02-2",
+                "name": "Biodisponibilidade"
+              }
+            ]
+          },
+          {
+            "code": "2.10.02.00-2",
+            "name": "Farmacologia Autonômica",
+            "children": []
+          },
+          {
+            "code": "2.10.03.00-9",
+            "name": "Neuropsicofarmacologia",
+            "children": []
+          },
+          {
+            "code": "2.10.04.00-5",
+            "name": "Farmacologia Cardiorenal",
+            "children": []
+          },
+          {
+            "code": "2.10.05.00-1",
+            "name": "Farmacologia Bioquímica e Molecular",
+            "children": []
+          },
+          {
+            "code": "2.10.06.00-8",
+            "name": "Etnofarmacologia",
+            "children": []
+          },
+          {
+            "code": "2.10.07.00-4",
+            "name": "Toxicologia",
+            "children": []
+          },
+          {
+            "code": "2.10.08.00-0",
+            "name": "Farmacologia Clínica",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.11.00.00-4",
+        "name": "Imunologia",
+        "children": [
+          {
+            "code": "2.11.01.00-0",
+            "name": "Imunoquímica",
+            "children": []
+          },
+          {
+            "code": "2.11.02.00-7",
+            "name": "Imunologia Celular",
+            "children": []
+          },
+          {
+            "code": "2.11.03.00-3",
+            "name": "Imunogenética",
+            "children": []
+          },
+          {
+            "code": "2.11.04.00-0",
+            "name": "Imunologia Aplicada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "2.12.00.00-9",
+        "name": "Microbiologia",
+        "children": [
+          {
+            "code": "2.12.01.00-5",
+            "name": "Biologia e Fisiologia dos Microorganismos",
+            "children": [
+              {
+                "code": "2.12.01.01-3",
+                "name": "Virologia"
+              },
+              {
+                "code": "2.12.01.02-1",
+                "name": "Bacterologia"
+              },
+              {
+                "code": "2.12.01.03-0",
+                "name": "Micologia"
+              }
+            ]
+          },
+          {
+            "code": "2.12.02.00-1",
+            "name": "Microbiologia Aplicada",
+            "children": [
+              {
+                "code": "2.12.02.01-0",
+                "name": "Microbiologia Médica"
+              },
+              {
+                "code": "2.12.02.02-8",
+                "name": "Microbiologia Industrial e de Fermentação"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "2.13.00.00-3",
+        "name": "Parasitologia",
+        "children": [
+          {
+            "code": "2.13.01.00-0",
+            "name": "Protozoologia de Parasitos",
+            "children": [
+              {
+                "code": "2.13.01.01-8",
+                "name": "Protozoologia Parasitária Humana"
+              },
+              {
+                "code": "2.13.01.02-6",
+                "name": "Protozoologia Parasitária Animal"
+              }
+            ]
+          },
+          {
+            "code": "2.13.02.00-6",
+            "name": "Helmintologia de Parasitos",
+            "children": [
+              {
+                "code": "2.13.02.01-4",
+                "name": "Helmintologia Humana"
+              },
+              {
+                "code": "2.13.02.02-2",
+                "name": "Helmintologia Animal"
+              }
+            ]
+          },
+          {
+            "code": "2.13.03.00-2",
+            "name": "Entomologia e Malacologia de Parasitos e Vetores",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "3.00.00.00-9",
+    "name": "Engenharias",
+    "children": [
+      {
+        "code": "3.01.00.00-3",
+        "name": "Engenharia Civil",
+        "children": [
+          {
+            "code": "3.01.01.00-0",
+            "name": "Construção Civil",
+            "children": [
+              {
+                "code": "3.01.01.01-8",
+                "name": "Materiais e Componentes de Construção"
+              },
+              {
+                "code": "3.01.01.02-6",
+                "name": "Processos Construtivos"
+              },
+              {
+                "code": "3.01.01.03-4",
+                "name": "Instalações Prediais"
+              }
+            ]
+          },
+          {
+            "code": "3.01.02.00-6",
+            "name": "Estruturas",
+            "children": [
+              {
+                "code": "3.01.02.01-4",
+                "name": "Estruturas de Concreto"
+              },
+              {
+                "code": "3.01.02.02-2",
+                "name": "Estruturas de Madeiras"
+              },
+              {
+                "code": "3.01.02.03-0",
+                "name": "Estruturas Metálicas"
+              },
+              {
+                "code": "3.01.02.04-9",
+                "name": "Mecânica das Estruturas"
+              }
+            ]
+          },
+          {
+            "code": "3.01.03.00-2",
+            "name": "Geotécnica",
+            "children": [
+              {
+                "code": "3.01.03.01-0",
+                "name": "Fundações e Escavações"
+              },
+              {
+                "code": "3.01.03.02-9",
+                "name": "Mecânicas das Rochas"
+              },
+              {
+                "code": "3.01.03.05-3",
+                "name": "Pavimentos"
+              }
+            ]
+          },
+          {
+            "code": "3.01.04.00-9",
+            "name": "Engenharia Hidráulica",
+            "children": [
+              {
+                "code": "3.01.04.01-7",
+                "name": "Hidráulica"
+              },
+              {
+                "code": "3.01.04.02-5",
+                "name": "Hidrologia"
+              }
+            ]
+          },
+          {
+            "code": "3.01.05.00-5",
+            "name": "Infra-Estrutura de Transportes",
+            "children": [
+              {
+                "code": "3.01.05.01-3",
+                "name": "Aeroportos; Projeto e Construção"
+              },
+              {
+                "code": "3.01.05.02-1",
+                "name": "Ferrovias; Projetos e Construção"
+              },
+              {
+                "code": "3.01.05.03-0",
+                "name": "Portos e Vias Nevegáveis; Projeto e Construção"
+              },
+              {
+                "code": "3.01.05.04-8",
+                "name": "Rodovias; Projeto e Construção"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.02.00.00-8",
+        "name": "Engenharia de Minas",
+        "children": [
+          {
+            "code": "3.02.01.00-4",
+            "name": "Pesquisa Mineral",
+            "children": [
+              {
+                "code": "3.02.01.01-2",
+                "name": "Caracterização do Minério"
+              },
+              {
+                "code": "3.02.01.02-0",
+                "name": "Dimensionamento de Jazidas"
+              }
+            ]
+          },
+          {
+            "code": "3.02.02.00-0",
+            "name": "Lavra",
+            "children": [
+              {
+                "code": "3.02.02.01-9",
+                "name": "Lavra a Céu Aberto"
+              },
+              {
+                "code": "3.02.02.02-7",
+                "name": "Lavra de Mina Subterrânea"
+              },
+              {
+                "code": "3.02.02.03-5",
+                "name": "Equipamentos de Lavra"
+              }
+            ]
+          },
+          {
+            "code": "3.02.03.00-7",
+            "name": "Tratamento de Minérios",
+            "children": [
+              {
+                "code": "3.02.03.01-5",
+                "name": "Métodos de Concentração e Enriquecimento de Minérios"
+              },
+              {
+                "code": "3.02.03.02-3",
+                "name": "Equipamentos de Beneficiamento de Minérios"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.03.00.00-2",
+        "name": "Engenharia de Materiais e Metalúrgica",
+        "children": [
+          {
+            "code": "3.03.01.00-9",
+            "name": "Instalações e Equipamentos Metalúrgicos",
+            "children": [
+              {
+                "code": "3.03.01.01-7",
+                "name": "Instalações Metalúrgicas"
+              },
+              {
+                "code": "3.03.01.02-5",
+                "name": "Equipamentos Metalúrgicos"
+              }
+            ]
+          },
+          {
+            "code": "3.03.02.00-5",
+            "name": "Metalurgia Extrativa",
+            "children": [
+              {
+                "code": "3.03.02.01-3",
+                "name": "Aglomeração"
+              },
+              {
+                "code": "3.03.02.02-1",
+                "name": "Eletrometalurgia"
+              },
+              {
+                "code": "3.03.02.03-0",
+                "name": "Hidrometalurgia"
+              },
+              {
+                "code": "3.03.02.04-8",
+                "name": "Pirometalurgia"
+              },
+              {
+                "code": "3.03.02.05-6",
+                "name": "Tratamento de Minérios"
+              }
+            ]
+          },
+          {
+            "code": "3.03.03.00-1",
+            "name": "Metalurgia de Transformação",
+            "children": [
+              {
+                "code": "3.03.03.01-0",
+                "name": "Conformação Mecânica"
+              },
+              {
+                "code": "3.03.03.02-8",
+                "name": "Fundição"
+              },
+              {
+                "code": "3.03.03.03-6",
+                "name": "Metalurgia de Po"
+              },
+              {
+                "code": "3.03.03.04-4",
+                "name": "Recobrimentos"
+              },
+              {
+                "code": "3.03.03.05-2",
+                "name": "Soldagem"
+              },
+              {
+                "code": "3.03.03.06-0",
+                "name": "Tratamento Térmicos, Mecânicos e Químicos"
+              },
+              {
+                "code": "3.03.03.07-9",
+                "name": "Usinagem"
+              }
+            ]
+          },
+          {
+            "code": "3.03.04.00-8",
+            "name": "Metalurgia Fisica",
+            "children": [
+              {
+                "code": "3.03.04.01-6",
+                "name": "Estrutura dos Metais e Ligas"
+              },
+              {
+                "code": "3.03.04.02-4",
+                "name": "Propriedades Físicas dos Metais e Ligas"
+              },
+              {
+                "code": "3.03.04.03-2",
+                "name": "Propriedades Mecânicas dos Metais e Ligas"
+              },
+              {
+                "code": "3.03.04.04-0",
+                "name": "Transformação de Fases"
+              },
+              {
+                "code": "3.03.04.05-9",
+                "name": "Corrosão"
+              }
+            ]
+          },
+          {
+            "code": "3.03.05.00-4",
+            "name": "Materiais não Metálicos",
+            "children": [
+              {
+                "code": "3.03.05.01-2",
+                "name": "Extração e Transformação de Materiais"
+              },
+              {
+                "code": "3.03.05.02-0",
+                "name": "Cerâmicos"
+              },
+              {
+                "code": "3.03.05.03-9",
+                "name": "Materiais Conjugados não Metálicos"
+              },
+              {
+                "code": "3.03.05.04-7",
+                "name": "Polímeros, Aplicações"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.04.00.00-7",
+        "name": "Engenharia Elétrica",
+        "children": [
+          {
+            "code": "3.04.01.00-3",
+            "name": "Materiais Elétricos",
+            "children": [
+              {
+                "code": "3.04.01.01-1",
+                "name": "Materiais Condutores"
+              },
+              {
+                "code": "3.04.01.02-0",
+                "name": "Materiais e Componentes Semicondutores"
+              },
+              {
+                "code": "3.04.01.05-4",
+                "name": "Materiais e Componentes Eletroóticos e Magnetoóticos, Materiais Fotoelétricos"
+              },
+              {
+                "code": "3.04.01.06-2",
+                "name": "Materiais e Dispositivos Magnéticos"
+              }
+            ]
+          },
+          {
+            "code": "3.04.02.00-0",
+            "name": "Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação",
+            "children": [
+              {
+                "code": "3.04.02.01-8",
+                "name": "Medidas Elétricas"
+              },
+              {
+                "code": "3.04.02.02-6",
+                "name": "Medidas Magnéticas"
+              },
+              {
+                "code": "3.04.02.03-4",
+                "name": "Instrumentação Eletromecânica"
+              },
+              {
+                "code": "3.04.02.04-2",
+                "name": "Instrumentação Eletrônica"
+              },
+              {
+                "code": "3.04.02.05-0",
+                "name": "Sistemas Eletrônicos de Medida e de Controle"
+              }
+            ]
+          },
+          {
+            "code": "3.04.03.00-6",
+            "name": "Circuitos Elétricos, Magnéticos e Eletrônicos",
+            "children": [
+              {
+                "code": "3.04.03.01-4",
+                "name": "Teoria Geral dos Circuitos Elétricos"
+              },
+              {
+                "code": "3.04.03.02-2",
+                "name": "Circuitos Lineares e Não-Lineares"
+              },
+              {
+                "code": "3.04.03.03-0",
+                "name": "Circuitos Eletrônicos"
+              },
+              {
+                "code": "3.04.03.04-9",
+                "name": "Circuitos Magnéticos, Magnetismos, Eletromagnetismo"
+              }
+            ]
+          },
+          {
+            "code": "3.04.04.00-2",
+            "name": "Sistemas Elétricos de Potência",
+            "children": [
+              {
+                "code": "3.04.04.01-0",
+                "name": "Geração da Energia Elétrica"
+              },
+              {
+                "code": "3.04.04.02-9",
+                "name": "Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+              },
+              {
+                "code": "3.04.04.03-7",
+                "name": "Conversão e Retificação da Energia Elétrica"
+              },
+              {
+                "code": "3.04.04.04-5",
+                "name": "Medição, Controle, Correção e Proteção de Sistemas Elétricos de Potência"
+              },
+              {
+                "code": "3.04.04.05-3",
+                "name": "Máquinas Elétricas e Dispositivos de Potência"
+              }
+            ]
+          },
+          {
+            "code": "3.04.06.00-5",
+            "name": "Telecomunicações",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "3.08.00.00-5",
+        "name": "Engenharia de Produção",
+        "children": [
+          {
+            "code": "3.08.02.00-8",
+            "name": "Pesquisa Operacional",
+            "children": [
+              {
+                "code": "3.08.02.01-6",
+                "name": "Processos Estocásticos e Teorias da Filas"
+              },
+              {
+                "code": "3.08.02.02-4",
+                "name": "Programação Linear, Não-Linear, Mista e Dinâmica"
+              },
+              {
+                "code": "3.08.02.03-2",
+                "name": "Séries Temporais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.10.00.00-2",
+        "name": "Engenharia de Transportes",
+        "children": [
+          {
+            "code": "3.10.01.00-9",
+            "name": "Planejamento de Transportes",
+            "children": [
+              {
+                "code": "3.10.01.01-7",
+                "name": "Planejamento e Organização do Sistema de Transporte"
+              },
+              {
+                "code": "3.10.01.02-5",
+                "name": "Economia dos Transportes"
+              }
+            ]
+          },
+          {
+            "code": "3.10.02.00-5",
+            "name": "Veículos e Equipamentos de Controle",
+            "children": [
+              {
+                "code": "3.10.02.01-3",
+                "name": "Vias de Transporte"
+              }
+            ]
+          },
+          {
+            "code": "3.10.03.00-1",
+            "name": "Operações de Transportes",
+            "children": [
+              {
+                "code": "3.10.03.01-0",
+                "name": "Engenharia de Tráfego"
+              },
+              {
+                "code": "3.10.03.02-8",
+                "name": "C  apacidade de Vias de Transporte"
+              },
+              {
+                "code": "3.10.03.03-6",
+                "name": "Operação de Sistemas de Transporte"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.12.00.00-1",
+        "name": "Engenharia Aeroespacial",
+        "children": [
+          {
+            "code": "3.12.01.00-8",
+            "name": "Aerodinâmica",
+            "children": [
+              {
+                "code": "3.12.01.01-6",
+                "name": "Aerodinâmica de Aeronaves Espaciais"
+              },
+              {
+                "code": "3.12.01.02-4",
+                "name": "Aerodinâmica dos Processos Geofísicos e Interplanetarios"
+              }
+            ]
+          },
+          {
+            "code": "3.12.02.00-4",
+            "name": "Dinâmica de Vôo",
+            "children": [
+              {
+                "code": "3.12.02.01-2",
+                "name": "Trajetorias e Orbitas"
+              },
+              {
+                "code": "3.12.02.02-0",
+                "name": "Estabilidade e Controle"
+              }
+            ]
+          },
+          {
+            "code": "3.12.03.00-0",
+            "name": "Estruturas Aeroespaciais",
+            "children": [
+              {
+                "code": "3.12.03.01-9",
+                "name": "Aeroelasticidade"
+              },
+              {
+                "code": "3.12.03.02-7",
+                "name": "Fadiga"
+              },
+              {
+                "code": "3.12.03.03-5",
+                "name": "Projeto de Estruturas Aeroespaciais"
+              }
+            ]
+          },
+          {
+            "code": "3.12.04.00-7",
+            "name": "Materiais e Processos para Engenharia Aeronáutica e Aeroespacial",
+            "children": []
+          },
+          {
+            "code": "3.12.05.00-3",
+            "name": "Propulsão Aeroespacial",
+            "children": [
+              {
+                "code": "3.12.05.01-1",
+                "name": "Combustão e Escoamento com Reações Químicas"
+              },
+              {
+                "code": "3.12.05.02-0",
+                "name": "Propulsão de Foguetes"
+              },
+              {
+                "code": "3.12.05.03-8",
+                "name": "Máquinas de Fluxo"
+              },
+              {
+                "code": "3.12.05.04-6",
+                "name": "Motores Alternativos"
+              }
+            ]
+          },
+          {
+            "code": "3.12.06.00-0",
+            "name": "Sistemas Aeroespaciais",
+            "children": [
+              {
+                "code": "3.12.06.01-8",
+                "name": "Aviões"
+              },
+              {
+                "code": "3.12.06.02-6",
+                "name": "Foguetes"
+              },
+              {
+                "code": "3.12.06.03-4",
+                "name": "Helicópteros"
+              },
+              {
+                "code": "3.12.06.04-2",
+                "name": "Hovercraft"
+              },
+              {
+                "code": "3.12.06.05-0",
+                "name": "Satélites e Outros Dispositivos Aeroespaciais"
+              },
+              {
+                "code": "3.12.06.06-9",
+                "name": "Normatização e Certificação de Qualidade de Aeronaves e Componentes"
+              },
+              {
+                "code": "3.12.06.07-7",
+                "name": "Manutenção de Sistemas Aeroespaciais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "3.13.00.00-6",
+        "name": "Engenharia Biomédica",
+        "children": [
+          {
+            "code": "3.13.01.00-2",
+            "name": "Bioengenharia",
+            "children": [
+              {
+                "code": "3.13.01.01-0",
+                "name": "Processamento de Sinais Biológicos"
+              },
+              {
+                "code": "3.13.01.02-9",
+                "name": "Modelagem de Fenomenos Biológicos"
+              },
+              {
+                "code": "3.13.01.03-7",
+                "name": "Modelagem de Sistemas Biológicos"
+              }
+            ]
+          },
+          {
+            "code": "3.13.02.00-9",
+            "name": "Engenharia Médica",
+            "children": [
+              {
+                "code": "3.13.02.03-3",
+                "name": "Instrumentação Odontológica e Médico-Hospitalar"
+              },
+              {
+                "code": "3.13.02.04-1",
+                "name": "Tecnologia de Próteses"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "4.00.00.00-1",
+    "name": "Ciências da Saúde",
+    "children": [
+      {
+        "code": "4.01.00.00-6",
+        "name": "Medicina",
+        "children": [
+          {
+            "code": "4.01.01.00-2",
+            "name": "Clínica Médica",
+            "children": [
+              {
+                "code": "4.01.01.01-0",
+                "name": "Angiologia"
+              },
+              {
+                "code": "4.01.01.02-9",
+                "name": "Dermatologia"
+              },
+              {
+                "code": "4.01.01.03-7",
+                "name": "Alergologia e Imunologia Clínica"
+              },
+              {
+                "code": "4.01.01.04-5",
+                "name": "Cancerologia"
+              },
+              {
+                "code": "4.01.01.05-3",
+                "name": "Hematologia"
+              },
+              {
+                "code": "4.01.01.06-1",
+                "name": "Endocrinologia"
+              },
+              {
+                "code": "4.01.01.07-0",
+                "name": "Neurologia"
+              },
+              {
+                "code": "4.01.01.08-8",
+                "name": "Pediatria"
+              },
+              {
+                "code": "4.01.01.09-6",
+                "name": "Doenças Infecciosas e Parasitárias"
+              },
+              {
+                "code": "4.01.01.10-0",
+                "name": "Cardiologia"
+              },
+              {
+                "code": "4.01.01.11-8",
+                "name": "Gastroenterologia"
+              },
+              {
+                "code": "4.01.01.12-6",
+                "name": "Pneumologia"
+              },
+              {
+                "code": "4.01.01.13-4",
+                "name": "Nefrologia"
+              },
+              {
+                "code": "4.01.01.14-2",
+                "name": "Reumatologia"
+              },
+              {
+                "code": "4.01.01.15-0",
+                "name": "Ginecologia e Obstetrícia"
+              },
+              {
+                "code": "4.01.01.16-9",
+                "name": "Fisiatria"
+              },
+              {
+                "code": "4.01.01.17-7",
+                "name": "Oftalmologia"
+              },
+              {
+                "code": "4.01.01.18-6",
+                "name": "Ortopedia"
+              }
+            ]
+          },
+          {
+            "code": "4.01.02.00-9",
+            "name": "Cirurgia",
+            "children": [
+              {
+                "code": "4.01.02.01-7",
+                "name": "Cirurgia Plástica e Restauradora"
+              },
+              {
+                "code": "4.01.02.02-5",
+                "name": "Cirurgia Otorrinolaringológica"
+              },
+              {
+                "code": "4.01.02.03-3",
+                "name": "Cirurgia Oftalmológica"
+              },
+              {
+                "code": "4.01.02.04-1",
+                "name": "Cirurgia Cardiovascular"
+              },
+              {
+                "code": "4.01.02.05-0",
+                "name": "Cirurgia Toráxica"
+              },
+              {
+                "code": "4.01.02.06-8",
+                "name": "Cirurgia Gastroenterologia"
+              },
+              {
+                "code": "4.01.02.07-6",
+                "name": "Cirurgia Pediátrica"
+              },
+              {
+                "code": "4.01.02.08-4",
+                "name": "Neurocirurgia"
+              },
+              {
+                "code": "4.01.02.09-2",
+                "name": "Cirurgia Urológica"
+              },
+              {
+                "code": "4.01.02.10-6",
+                "name": "Cirurgia Proctológica"
+              },
+              {
+                "code": "4.01.02.11-4",
+                "name": "Cirurgia Ortopédica"
+              },
+              {
+                "code": "4.01.02.12-2",
+                "name": "Cirurgia Traumatológica"
+              },
+              {
+                "code": "4.01.02.13-0",
+                "name": "Anestesiologia"
+              },
+              {
+                "code": "4.01.02.14-9",
+                "name": "Cirurgia Experimental"
+              }
+            ]
+          },
+          {
+            "code": "4.01.03.00-5",
+            "name": "Saúde Materno-Infantil",
+            "children": []
+          },
+          {
+            "code": "4.01.04.00-1",
+            "name": "Psiquiatria",
+            "children": []
+          },
+          {
+            "code": "4.01.05.00-8",
+            "name": "Anatomia Patológica e Patologia Clínica",
+            "children": []
+          },
+          {
+            "code": "4.01.06.00-4",
+            "name": "Radiologia Médica",
+            "children": []
+          },
+          {
+            "code": "4.01.07.00-0",
+            "name": "Medicina Legal e Deontologia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.02.00.00-0",
+        "name": "Odontologia",
+        "children": [
+          {
+            "code": "4.02.01.00-7",
+            "name": "Clínica Odontológica",
+            "children": []
+          },
+          {
+            "code": "4.02.02.00-3",
+            "name": "Cirurgia Buco-Maxilo-Facial",
+            "children": []
+          },
+          {
+            "code": "4.02.03.00-0",
+            "name": "Ortodontia",
+            "children": []
+          },
+          {
+            "code": "4.02.04.00-6",
+            "name": "Odontopediatria",
+            "children": []
+          },
+          {
+            "code": "4.02.05.00-2",
+            "name": "Periodontia",
+            "children": []
+          },
+          {
+            "code": "4.02.06.00-9",
+            "name": "Endodontia",
+            "children": []
+          },
+          {
+            "code": "4.02.07.00-5",
+            "name": "Radiologia Odontológica",
+            "children": []
+          },
+          {
+            "code": "4.02.08.00-1",
+            "name": "Odontologia Social e Preventiva",
+            "children": []
+          },
+          {
+            "code": "4.02.09.00-8",
+            "name": "Materiais Odontológicos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.03.00.00-5",
+        "name": "Farmácia",
+        "children": [
+          {
+            "code": "4.03.01.00-1",
+            "name": "Farmacotecnia",
+            "children": []
+          },
+          {
+            "code": "4.03.02.00-8",
+            "name": "Farmacognosia",
+            "children": []
+          },
+          {
+            "code": "4.03.03.00-4",
+            "name": "Análise Toxicológica",
+            "children": []
+          },
+          {
+            "code": "4.03.04.00-0",
+            "name": "Análise e Controle e Medicamentos",
+            "children": []
+          },
+          {
+            "code": "4.03.05.00-7",
+            "name": "Bromatologia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.04.00.00-0",
+        "name": "Enfermagem",
+        "children": [
+          {
+            "code": "4.04.01.00-6",
+            "name": "Enfermagem Médico-Cirúrgica",
+            "children": []
+          },
+          {
+            "code": "4.04.02.00-2",
+            "name": "Enfermagem Obstétrica",
+            "children": []
+          },
+          {
+            "code": "4.04.03.00-9",
+            "name": "Enfermagem Pediátrica",
+            "children": []
+          },
+          {
+            "code": "4.04.04.00-5",
+            "name": "Enfermagem Psiquiátrica",
+            "children": []
+          },
+          {
+            "code": "4.04.05.00-1",
+            "name": "Enfermagem de Doenças Contagiosas",
+            "children": []
+          },
+          {
+            "code": "4.04.06.00-8",
+            "name": "Enfermagem de Saúde Pública",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.05.00.00-4",
+        "name": "Nutrição",
+        "children": [
+          {
+            "code": "4.05.01.00-0",
+            "name": "Bioquímica da Nutrição",
+            "children": []
+          },
+          {
+            "code": "4.05.02.00-7",
+            "name": "Dietética",
+            "children": []
+          },
+          {
+            "code": "4.05.03.00-3",
+            "name": "Análise Nutricional de População",
+            "children": []
+          },
+          {
+            "code": "4.05.04.00-0",
+            "name": "Desnutrição e Desenvolvimento Fisiológico",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.06.00.00-9",
+        "name": "Saúde Coletiva",
+        "children": [
+          {
+            "code": "4.06.01.00-5",
+            "name": "Epidemiologia",
+            "children": []
+          },
+          {
+            "code": "4.06.02.00-1",
+            "name": "Saúde Publica",
+            "children": []
+          },
+          {
+            "code": "4.06.03.00-8",
+            "name": "Medicina Preventiva",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "4.07.00.00-3",
+        "name": "Fonoaudiologia",
+        "children": []
+      },
+      {
+        "code": "4.08.00.00-8",
+        "name": "Fisioterapia e Terapia Ocupacional",
+        "children": []
+      },
+      {
+        "code": "4.09.00.00-2",
+        "name": "Educação Física",
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "5.00.00.00-4",
+    "name": "Ciências Agrárias",
+    "children": [
+      {
+        "code": "5.01.00.00-9",
+        "name": "Agronomia",
+        "children": [
+          {
+            "code": "5.01.01.00-5",
+            "name": "Ciência do Solo",
+            "children": [
+              {
+                "code": "5.01.01.01-3",
+                "name": "Genese, Morfologia e Classificação dos Solos"
+              },
+              {
+                "code": "5.01.01.02-1",
+                "name": "Física do Solo"
+              },
+              {
+                "code": "5.01.01.03-0",
+                "name": "Química do Solo"
+              },
+              {
+                "code": "5.01.01.04-8",
+                "name": "Microbiologia e Bioquímica do Solo"
+              },
+              {
+                "code": "5.01.01.05-6",
+                "name": "Fertilidade do Solo e Adubação"
+              },
+              {
+                "code": "5.01.01.06-4",
+                "name": "Manejo e Conservação do Solo"
+              }
+            ]
+          },
+          {
+            "code": "5.01.02.00-1",
+            "name": "Fitossanidade",
+            "children": [
+              {
+                "code": "5.01.02.01-0",
+                "name": "Fitopatologia"
+              },
+              {
+                "code": "5.01.02.02-8",
+                "name": "Entomologia Agrícola"
+              },
+              {
+                "code": "5.01.02.03-6",
+                "name": "Parasitologia Agrícola"
+              },
+              {
+                "code": "5.01.02.04-4",
+                "name": "Microbiologia Agrícola"
+              }
+            ]
+          },
+          {
+            "code": "5.01.05.00-0",
+            "name": "Agrometeorologia",
+            "children": []
+          },
+          {
+            "code": "5.01.06.00-7",
+            "name": "Extensão Rural",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "5.02.00.00-3",
+        "name": "Recursos Florestais e Engenharia Florestal",
+        "children": [
+          {
+            "code": "5.02.01.00-0",
+            "name": "Silvicultura",
+            "children": [
+              {
+                "code": "5.02.01.04-2",
+                "name": "Sementes Florestais"
+              },
+              {
+                "code": "5.02.01.05-0",
+                "name": "Nutrição Florestal"
+              }
+            ]
+          },
+          {
+            "code": "5.02.03.00-2",
+            "name": "Técnicas e Operações Florestais",
+            "children": []
+          },
+          {
+            "code": "5.02.06.00-1",
+            "name": "Energia de Biomassa Florestal",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "5.03.00.00-8",
+        "name": "Engenharia Agrícola",
+        "children": []
+      },
+      {
+        "code": "5.06.00.00-1",
+        "name": "Recursos Pesqueiros e Engenharia de Pesca",
+        "children": [
+          {
+            "code": "5.06.02.00-4",
+            "name": "Recursos Pesqueiros de Águas Interiores",
+            "children": [
+              {
+                "code": "5.06.02.01-2",
+                "name": "Fatores Abióticos de Águas Interiores"
+              },
+              {
+                "code": "5.06.02.02-0",
+                "name": "Avaliação de Estoques Pesqueiros de Águas Interiores"
+              },
+              {
+                "code": "5.06.02.03-9",
+                "name": "Explotação Pesqueira de Águas Interiores"
+              },
+              {
+                "code": "5.06.02.04-7",
+                "name": "Manejo e Conservação de Recursos Pesqueiros de Águas Interiores"
+              }
+            ]
+          },
+          {
+            "code": "5.06.03.00-0",
+            "name": "Aqüicultura",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "7.00.00.00-0",
+    "name": "Ciências Humanas",
+    "children": [
+      {
+        "code": "7.01.00.00-4",
+        "name": "Filosofia",
+        "children": [
+          {
+            "code": "7.01.01.00-0",
+            "name": "História da Filosofia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "7.04.00.00-8",
+        "name": "Arqueologia",
+        "children": [
+          {
+            "code": "7.04.01.00-4",
+            "name": "Teoria e Método em Arqueologia",
+            "children": []
+          },
+          {
+            "code": "7.04.02.00-0",
+            "name": "Arqueologia Pré-Histórica",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "7.06.00.00-7",
+        "name": "Geografia",
+        "children": [
+          {
+            "code": "7.06.01.00-3",
+            "name": "Geografia Humana",
+            "children": [
+              {
+                "code": "7.06.01.01-1",
+                "name": "Geografia da População"
+              },
+              {
+                "code": "7.06.01.02-0",
+                "name": "Geografia Agrária"
+              },
+              {
+                "code": "7.06.01.03-8",
+                "name": "Geografia Urbana"
+              },
+              {
+                "code": "7.06.01.04-6",
+                "name": "Geografia Econômica"
+              },
+              {
+                "code": "7.06.01.05-4",
+                "name": "Geografia Política"
+              }
+            ]
+          },
+          {
+            "code": "7.06.02.00-0",
+            "name": "Geografia Regional",
+            "children": [
+              {
+                "code": "7.06.02.01-8",
+                "name": "Teoria do Desenvolvimento Regional"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "7.07.00.00-1",
+        "name": "Psicologia",
+        "children": [
+          {
+            "code": "7.07.02.00-4",
+            "name": "Psicologia Experimental",
+            "children": [
+              {
+                "code": "7.07.02.01-2",
+                "name": "Processos Perceptuais e Motores"
+              },
+              {
+                "code": "7.07.02.02-0",
+                "name": "Processos de Aprendizagem, Memória e Motivação"
+              },
+              {
+                "code": "7.07.02.03-9",
+                "name": "Processos Cognitivos e Atencionais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "7.09.00.00-0",
+        "name": "Ciência Política",
+        "children": [
+          {
+            "code": "7.09.01.00-7",
+            "name": "Teoria Política",
+            "children": [
+              {
+                "code": "7.09.01.01-5",
+                "name": "Teoria Política Clássica"
+              },
+              {
+                "code": "7.09.01.02-3",
+                "name": "Teoria Política Medieval"
+              },
+              {
+                "code": "7.09.01.03-1",
+                "name": "Teoria Política Moderna"
+              },
+              {
+                "code": "7.09.01.04-0",
+                "name": "Teoria Política Contemporânea"
+              }
+            ]
+          },
+          {
+            "code": "7.09.02.00-3",
+            "name": "Estado e Governo",
+            "children": [
+              {
+                "code": "7.09.02.01-1",
+                "name": "Estrutura e Transformação do Estado"
+              },
+              {
+                "code": "7.09.02.02-0",
+                "name": "Sistemas Governamentais Comparados"
+              },
+              {
+                "code": "7.09.02.03-8",
+                "name": "Relações Intergovernamentais"
+              },
+              {
+                "code": "7.09.02.04-6",
+                "name": "Estudos do Poder Local"
+              },
+              {
+                "code": "7.09.02.05-4",
+                "name": "Instituições Governamentais Específicas"
+              }
+            ]
+          },
+          {
+            "code": "7.09.03.00-0",
+            "name": "Comportamento Político",
+            "children": [
+              {
+                "code": "7.09.03.01-8",
+                "name": "Estudos Eleitorais e Partidos Políticos"
+              },
+              {
+                "code": "7.09.03.04-2",
+                "name": "Comportamento Legislativo"
+              },
+              {
+                "code": "7.09.03.05-0",
+                "name": "Classes \n Sociais e Grupos de Interesse"
+              }
+            ]
+          },
+          {
+            "code": "7.09.04.00-6",
+            "name": "Políticas Públicas",
+            "children": [
+              {
+                "code": "7.09.04.01-4",
+                "name": "Análise do Processo Decisório"
+              }
+            ]
+          },
+          {
+            "code": "7.09.05.00-2",
+            "name": "Política Internacional",
+            "children": [
+              {
+                "code": "7.09.05.01-0",
+                "name": "Política Externa do Brasil"
+              },
+              {
+                "code": "7.09.05.02-9",
+                "name": "Organizações Internacionais"
+              },
+              {
+                "code": "7.09.05.03-7",
+                "name": "Integração Internacional, Conflito, Guerra e Paz"
+              },
+              {
+                "code": "7.09.05.04-5",
+                "name": "Relações Internacionais, Bilaterais e Multilaterais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "7.10.00.00-3",
+        "name": "Teologia",
+        "children": [
+          {
+            "code": "7.10.01.00-0",
+            "name": "História da Teologia",
+            "children": []
+          },
+          {
+            "code": "7.10.02.00-6",
+            "name": "Teologia Moral",
+            "children": []
+          },
+          {
+            "code": "7.10.03.00-2",
+            "name": "Teologia Sistemática",
+            "children": []
+          },
+          {
+            "code": "7.10.04.00-9",
+            "name": "Teologia Pastoral",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "8.00.00.00-2",
+    "name": "Lingüística, Letras e Artes",
+    "children": [
+      {
+        "code": "8.01.00.00-7",
+        "name": "Lingüística",
+        "children": [
+          {
+            "code": "8.01.01.00-3",
+            "name": "Teoria e Análise Lingüística",
+            "children": []
+          },
+          {
+            "code": "8.01.02.00-0",
+            "name": "Fisiologia da Linguagem",
+            "children": []
+          },
+          {
+            "code": "8.01.03.00-6",
+            "name": "Lingüística Histórica",
+            "children": []
+          },
+          {
+            "code": "8.01.04.00-2",
+            "name": "Sociolingüística e Dialetologia",
+            "children": []
+          },
+          {
+            "code": "8.01.05.00-9",
+            "name": "Psicolingüística",
+            "children": []
+          },
+          {
+            "code": "8.01.06.00-5",
+            "name": "Lingüística Aplicada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "8.02.00.00-1",
+        "name": "Letras",
+        "children": [
+          {
+            "code": "8.02.01.00-8",
+            "name": "Língua Portuguesa",
+            "children": []
+          },
+          {
+            "code": "8.02.02.00-4",
+            "name": "Línguas Estrangeiras Modernas",
+            "children": []
+          },
+          {
+            "code": "8.02.03.00-0",
+            "name": "Línguas Clássicas",
+            "children": []
+          },
+          {
+            "code": "8.02.04.00-7",
+            "name": "Línguas Indígenas",
+            "children": []
+          },
+          {
+            "code": "8.02.05.00-3",
+            "name": "Teoria Literária",
+            "children": []
+          },
+          {
+            "code": "8.02.06.00-0",
+            "name": "Literatura Brasileira",
+            "children": []
+          },
+          {
+            "code": "8.02.07.00-6",
+            "name": "Outras Literaturas Vernáculas",
+            "children": []
+          },
+          {
+            "code": "8.02.08.00-2",
+            "name": "Literaturas Estrangeiras Modernas",
+            "children": []
+          },
+          {
+            "code": "8.02.09.00-9",
+            "name": "Literaturas Clássicas",
+            "children": []
+          },
+          {
+            "code": "8.02.10.00-7",
+            "name": "Literatura Comparada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "8.03.00.00-6",
+        "name": "Artes",
+        "children": [
+          {
+            "code": "8.03.01.00-2",
+            "name": "Fundamentos e Crítica das Artes",
+            "children": [
+              {
+                "code": "8.03.01.01-0",
+                "name": "Teoria da Arte"
+              },
+              {
+                "code": "8.03.01.02-9",
+                "name": "História da Arte"
+              },
+              {
+                "code": "8.03.01.03-7",
+                "name": "Crítica da Arte"
+              }
+            ]
+          },
+          {
+            "code": "8.03.02.00-9",
+            "name": "Artes Plásticas",
+            "children": [
+              {
+                "code": "8.03.02.01-7",
+                "name": "Pintura"
+              },
+              {
+                "code": "8.03.02.02-5",
+                "name": "Desenho"
+              },
+              {
+                "code": "8.03.02.03-3",
+                "name": "Gravura"
+              },
+              {
+                "code": "8.03.02.04-1",
+                "name": "Escultura"
+              },
+              {
+                "code": "8.03.02.05-0",
+                "name": "Cerâmica"
+              },
+              {
+                "code": "8.03.02.06-8",
+                "name": "Tecelagem"
+              }
+            ]
+          },
+          {
+            "code": "8.03.03.00-5",
+            "name": "Música",
+            "children": [
+              {
+                "code": "8.03.03.01-3",
+                "name": "Regência"
+              },
+              {
+                "code": "8.03.03.02-1",
+                "name": "Instrumentação Musical"
+              },
+              {
+                "code": "8.03.03.03-0",
+                "name": "Composição Musical"
+              },
+              {
+                "code": "8.03.03.04-8",
+                "name": "Canto"
+              }
+            ]
+          },
+          {
+            "code": "8.03.04.00-1",
+            "name": "Dança",
+            "children": [
+              {
+                "code": "8.03.04.01-0",
+                "name": "Execução da Dança"
+              },
+              {
+                "code": "8.03.04.02-8",
+                "name": "Coreografia"
+              }
+            ]
+          },
+          {
+            "code": "8.03.05.00-8",
+            "name": "Teatro",
+            "children": [
+              {
+                "code": "8.03.05.01-6",
+                "name": "Dramaturgia"
+              },
+              {
+                "code": "8.03.05.02-4",
+                "name": "Direção Teatral"
+              },
+              {
+                "code": "8.03.05.03-2",
+                "name": "Cenografia"
+              },
+              {
+                "code": "8.03.05.04-0",
+                "name": "Interpretação Teatral"
+              }
+            ]
+          },
+          {
+            "code": "8.03.06.00-4",
+            "name": "Ópera",
+            "children": []
+          },
+          {
+            "code": "8.03.07.00-0",
+            "name": "Fotografia",
+            "children": []
+          },
+          {
+            "code": "8.03.08.00-7",
+            "name": "Cinema",
+            "children": [
+              {
+                "code": "8.03.08.01-5",
+                "name": "Administração e Produção de Filmes"
+              },
+              {
+                "code": "8.03.08.02-3",
+                "name": "Roteiro e Direção \n Cinematográficos"
+              },
+              {
+                "code": "8.03.08.03-1",
+                "name": "Técnicas de Registro e Processamento de Filmes"
+              },
+              {
+                "code": "8.03.08.04-0",
+                "name": "Interpretação Cinematográfica"
+              }
+            ]
+          },
+          {
+            "code": "8.03.09.00-3",
+            "name": "Artes do Vídeo",
+            "children": []
+          },
+          {
+            "code": "8.03.10.00-1",
+            "name": "Educação Artística",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
