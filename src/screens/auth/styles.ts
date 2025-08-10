@@ -74,4 +74,33 @@ resendBtn: { marginTop: spacing.lg, alignItems: 'center' },
   resendDisabled: { opacity: 0.4 },
   resendTextEnabled: { color: colors.primary },
   resendTextDisabled: { color: colors.textPrimary },
+  pickerContainer: {
+    flex: 0.5,
+    marginTop: spacing.lg,
+    backgroundColor: colors.background,
+    padding: spacing.lg,
+    borderRadius: 12,
+      },
+  label: {
+    fontFamily: font.family.semibold,
+    marginTop: spacing.lg,
+    marginBottom: spacing.sm,
+    color: colors.textPrimary,
+    fontSize: font.size.md,
+    textAlign: "center",
+    textTransform: 'uppercase',
+
+  },
+  interestRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: spacing.sm,
+  },
+  interestText: {
+    fontFamily: font.family.regular,
+    fontSize: font.size.md,
+    color: colors.textPrimary,
+  },
+
+
 });

@@ -3,10 +3,13 @@ import {styles} from './styles';
 import FontAwesome5 from '@expo/vector-icons/FontAwesome5';
 import Input from '../../components/Inputs';
 import { useEffect, useRef, useState } from 'react';
+import { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { AuthStackParamList } from '../../navigation/AuthStack';
 
 const CODE_LENGTH = 5;
 const RESEND_SECONDS = 60;
-export default function VerifyEmail() {
+type Props = NativeStackScreenProps<AuthStackParamList, 'VerifyEmail'>;
+export default function VerifyEmail({navigation}: Props) {
 
  const [code, setCode] = useState<string[]>(Array(CODE_LENGTH).fill(''));
   const [timer, setTimer] = useState(RESEND_SECONDS);
@@ -42,6 +45,9 @@ export default function VerifyEmail() {
   const handleConfirm = () => {
     const otp = code.join('');
     console.log('Enviar OTP:', otp);
+    navigation.navigate("SelectArea")
+
+    
     // to-do implementar lógica com backend para confirmar código
   };
  return (
